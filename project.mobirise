@@ -1,0 +1,1642 @@
+{
+  "settings": {
+    "name": "IDEA",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#f1a41c",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#3d8eb9",
+        "warningColor": "#fac51c",
+        "dangerColor": "#f28281",
+        "titleFont": "Barlow Semi Condensed",
+        "subtitleFont": "Open Sans",
+        "textFont": "Open Sans",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#2e2e2e",
+        "#0079c0",
+        "#cd8e38",
+        "#e6872e",
+        "#f1a41c",
+        "#242424"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.10.4",
+    "siteFonts": [
+      {
+        "css": "'Barlow Semi Condensed', sans-serif",
+        "name": "Barlow Semi Condensed",
+        "url": "https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
+      }
+    ],
+    "uniqCompNum": 21,
+    "versionPublish": "4.10.4",
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/isae-ciel-128x128.png",
+    "noImageResize": "",
+    "siteUrl": "",
+    "google-analytics": "",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "sitemapSwitcherAuto": "on",
+    "cookiesAlert": {
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "#ffffff",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
+    },
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#f1a41c",
+      "underlineLink": false,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    },
+    "PWA": {
+      "enabled": false
+    }
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "IDEA transformation numérique digital  learning edtech pédagogie innovation aéronautique aérospatial aerospace spatial  supaero isae-supaero ensica",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "24px"
+            },
+            ".navbar-toggler": {
+              "color": "#2e2e2e"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#2e2e2e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#2e2e2e"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#2e2e2e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f1a41c!important"
+            },
+            "A": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            },
+            "SPAN": {
+              "font-size": "16px"
+            },
+            ".navbar-caption SPAN": {
+              "font-size": "24px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#2e2e2e",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-8\" aria-expanded=\"false\"><span style=\"font-weight: normal;\">IDEA ?</span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extShop1-5\" aria-expanded=\"false\"><span style=\"font-weight: normal;\">PROJETS</span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm3-a\" aria-expanded=\"false\"><span style=\"font-weight: normal;\">CONTACT</span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logoisae-200-200x121.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.isae-supaero.fr",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span style=\"font-weight: normal;\">IDEA</span></a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/sharon-pittaway-n7ftpkc-p7o-unsplash1-2000x3000.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "<span style=\"font-weight: normal;\">IDEA</span>",
+          "text": "IDEA est l’unité de transformation digitale de l’ISAE-SUPAERO, <br>centrée sur l’enseignement et le digital learning ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#header3-8\" data-toolbar=\"-mbrBtnMove\">PLUS D'INFORMATION</a> ",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "100px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "title": "Innovations Digitales pour l'Enseignement Aérospatial",
+          "meta": "Transformation numérique de l'Institut Supérieur de l'Aéronautique et de l'Espace",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-8"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "4",
+            "bgColor": "#fff"
+          },
+          "text1": "<p>Le « Digital Learning » et la transformation pédagogique de l’enseignement constituent ainsi un enjeu majeur pour l'ISAE-SUPAERO et la création d'une unité spécifique directement dépendante de la direction générale de l’institut en atteste l'importance. Parmi les problématiques posées par cette transformation, l’élaboration d’un écosystème efficace favorisant l’innovation pédagogique constitue un axe clé du développement actuel de l’institut. La production efficace de ressources pédagogiques structurées et qualifiées, le déploiement de services et de plateformes numériques centrés utilisateurs, l’accompagnement des enseignants dans la démarche d’innovation pédagogique, le tout intégré au sein d’un campus numérique riche et de qualité sont autant d’axes de développement.</p>",
+          "text2": "<p>La stratégie numérique de l’ISAE-SUPAERO développe une approche glabale, intégrant un large ensemble de points de vue : centrée utilisateurs (i.e., apprenants, enseignants, et tous les acteurs de l’enseignement), orientée technologie (innovations techniques, standards et analyse de données), utilisant des méthodes collaboratives et agiles dans un contexte structuré.</p><p><br></p><p>L'unité IDEA (Innovations Digitales pour l'Enseignement Aérospatial) est structurée selon 4 axes de développements complémentaires : la transformation numérique de l'institut (TRANSFO), la recherche &amp; développement sur les EdTech (LAB), la fabrication du digital learning (FAB) et l'ingénierie d'exécution des programmes numériques et présentiels (OPS).</p>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-9"
+        },
+        {
+          "_styles": {
+            ".feature-title, .description": {
+              "color": "#232323"
+            },
+            ".feature-subtitle": {
+              "color": "#8c8c8c"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/extFeatures1/images/jumbotron.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#e9e9e9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "media": {
+            "image": {
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/idea-1243x1752.png",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "extension",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "pencil",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "desktop",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "lab",
+              "family": "linecons",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "close",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "title": "4 axes de développement",
+          "subtitle": "IDEA développe plusieurs axes de développement complémentaires, dans le cadre d'une approche globale<br>&nbsp;de la transformation numérique d'un établissement d'enseignement supérieur",
+          "feature_title1": "Transformation numérique",
+          "feature_subtitle1": "TRANSFO&nbsp;",
+          "feature_text1": "Innover avec le digital, dans l'évolution de l'ensemble de l'établissement",
+          "feature_title2": "Fabrication du digital learning&nbsp;",
+          "feature_subtitle2": "FAB",
+          "feature_text2": "Fabriquer le numérique autour des formations et des contenus numériques innovants",
+          "feature_title3": "Translation ready",
+          "feature_subtitle3": "Find a common language with anyone",
+          "feature_text3": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "feature_title4": "Etudes &amp; développements",
+          "feature_subtitle4": "LAB",
+          "feature_text4": "Etudier, développer et expérimenter des EdTech, les Technologies pour l'enseignement<br>",
+          "feature_title5": "Opérations du digital learning",
+          "feature_subtitle5": "OPS",
+          "feature_text5": "Soutenir l'enseignement sous toutes ses formes : présentiel, distanciel, numérique",
+          "feature_title6": "Awesome parallax",
+          "feature_subtitle6": "Enjoy smooth bg sliding on scroll",
+          "feature_text6": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures8",
+          "_anchor": "extFeatures8-7"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "title": "Actions et projets",
+          "meta": "Mise à jour le 01/12/2019",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-j"
+        },
+        {
+          "_styles": {
+            ".galleryItem h4:hover": {
+              "color": "@primaryColor"
+            },
+            ".mbr-gallery-filter ul li.active": {
+              "color": "@primaryColor"
+            },
+            ".mbr-gallery-filter ul li:hover": {
+              "color": "@primaryColor"
+            },
+            ".mbr-gallery-filter ul li:before": {
+              "background": "@primaryColor"
+            },
+            ".min-toggle:hover, .max-toggle:hover": {
+              "background-color": "@primaryColor"
+            },
+            ".shop-title": {
+              "font-family": "@titleFont"
+            },
+            ".categories-titles .mbr-gallery-filter ul li": {
+              "font-family": "@titleFont"
+            },
+            ".max-input": {
+              "font-family": "@titleFont"
+            },
+            ".min-input": {
+              "font-family": "@titleFont"
+            },
+            ".item-title": {
+              "font-family": "@titleFont"
+            },
+            ".item-subtitle": {
+              "font-family": "@subtitleFont",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-size": "17px"
+            },
+            ".card-description": {
+              "font-family": "@textFont"
+            },
+            ".shop-item-price": {
+              "font-family": "@titleFont"
+            },
+            ".btn": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            },
+            "H3": {
+              "text-align": "center"
+            },
+            ".onsale": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showSidebar": true,
+            "showSortButtons": true,
+            "showBestSellers": true,
+            "priceRange": true,
+            "filter": true,
+            "paddingTop": "0",
+            "paddingBottom": 2,
+            "bgColor": "#ffffff",
+            "filterBgColor": false,
+            "fontHoverColor": "@primaryColor",
+            "mainTitle": "@titleFont",
+            "mainSubTitle": "@subtitleFont",
+            "mainText": "@textFont",
+            "images": [
+              {
+                "tags": "MOOC, FAB",
+                "bestSeller": false,
+                "itemTitle": "MOOC Avion",
+                "itemSubtitle": "Comment vole un avion ?<br><br>",
+                "itemDescription": "Cela fait à peine plus d’un siècle que les avions volent. Et, de fait, le vol défie souvent l’intuition de l’animal terrestre que nous sommes. Comment vole un avion et comment éviter qu’il échappe au contrôle du pilote ? Jusqu’où peut-il s’élever dans le ciel ? Autant de questions auxquelles ce MOOC s'efforce de répondre avec passion, simplicité et rigueur scientifique, en s’appuyant sur des explications visuelles, des mises en situation réalistes, des simulations et en se limitant au formalisme mathématique accessible à un élève de terminale scientifique.<div><br></div><div><div><br></div></div>",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "2015+&nbsp;",
+                "onsale": "-50%",
+                "button": "<a data-app-btn=\"true\" href=\"https://online.isae-supaero.fr/moocavion\" class=\"btn btn-primary\"><strong>PLUS D'INFORMATION</strong></a>",
+                "image": "@PROJECT_PATH@/assets/images/capture%20d%E2%80%99e%CC%81cran%202019-11-26%20a%CC%80%2011.09.32-780x640.png",
+                "thumb": "@PROJECT_PATH@/assets/images/capture-decran-2019-11-26-a-11.09.32-780x640-511x511.png",
+                "caption": "Type caption here",
+                "alt": "",
+                "title": "",
+                "onSale": false,
+                "active": false
+              },
+              {
+                "tags": "OPS, Plateforme",
+                "bestSeller": false,
+                "itemTitle": "IQuiz",
+                "itemSubtitle": "Des cours plus interactifs<br><br>",
+                "itemDescription": "IQuiz est un service en ligne permettant la mise en oeuvre agile d'interactions au sein d'une salle de classe - physique ou virtuelle - avec l'ensemble des étudiants présents. Vous posez une question, ouverte ou fermée, oralement, au tableau ou sur des diapositives, et IQuiz permet de recueillir et de présenter les réponses des étudiants. Le service permet également de sonder en continu les étudiants afin de déterminer quel niveau de compréhension ils ont du cours.<br>",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "2017+",
+                "onsale": "-50%",
+                "button": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-primary\"><strong>PLUS D'INFORMATION</strong></a>",
+                "image": "@PROJECT_PATH@/assets/images/diapositive8-1589x2249.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diapositive8-1589x2249-591x591.jpg",
+                "caption": "Type caption here",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "tags": "FAB, Plateforme",
+                "bestSeller": false,
+                "itemTitle": "Online",
+                "itemSubtitle": "ISAE-SUPAERO en ligne<br><br>",
+                "itemDescription": "ISAE-SUPAERO online est la plateforme de cours en ligne centralisant l'offre digitale externe de l'ISAE-SUPAERO (hors formations initiales). Il s'agit en particulier des MOOC et formation destinées aux publics professionnels. Chaque formation est proposée selon une fiche cohérente et pour certaines d'entre elles, la plateforme online est également utilisée pour réaliser les cours.&nbsp;",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "2018+",
+                "onsale": "-50%",
+                "button": "<a data-app-btn=\"true\" href=\"https://online.isae-supaero.fr\" class=\"btn btn-primary\"><strong>PLUS D'INFORMATION</strong></a>",
+                "image": "@PROJECT_PATH@/assets/images/j-kelly-brito-peujyoylfe4-unsplash-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/j-kelly-brito-peujyoylfe4-unsplash-2000x1333-800x800.jpg",
+                "caption": "Type caption here",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "tags": "FAB, MOOC",
+                "bestSeller": false,
+                "itemTitle": "DynaMOOC",
+                "itemSubtitle": "Dynamique des structures<br><br>",
+                "itemDescription": "<p>Designing structures in today’s work means using more than static criteria. Dynamics is now integrated into the design and specification of aerospace and light structures. Having a good knowledge of dynamics is crucial for those creating structures whether they are aircraft or vehicles, in civil, naval or other types of engineering. </p><p><br></p><p>On this course students will learn the fundamentals of dynamics, and explore dynamics is relevant to structural engineering. By the end of this MOOC, learner will have a new perspective on the qualification and behaviour of all mechanical systems.</p>",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "2019+",
+                "onsale": "-50%",
+                "button": "<a data-app-btn=\"true\" href=\"https://online.isae-supaero.fr/dynamooc\" class=\"btn btn-primary\"><strong>PLUS D'INFORMATION</strong></a>",
+                "image": "@PROJECT_PATH@/assets/images/diapositive3-1589x2249.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diapositive3-1589x2249-800x800.jpg",
+                "caption": "Type caption here",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "tags": "FAB, MOOC",
+                "bestSeller": false,
+                "itemTitle": "ABC of Flight Mechanics",
+                "itemSubtitle": "How do planes fly? (MOOC)",
+                "itemDescription": "&nbsp;More than one century after Wright brothers first fly, flight still defy out intuition. You will learn here how planes do fly, how pilots can control their trajectory, and what happens if they fly too low or too fast. Turning, stalling, computing a range or sizing a wing will no longer have any secret for you. More based on explanations than on mathematic demonstration, this course makes an extensive use of diagrams, animations, actual airplane pictures and video, and even flight experimentations on our own airplanes and full flight simulator<br><br><br>",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "2019+",
+                "onsale": "-50%",
+                "button": "<a data-app-btn=\"true\" href=\"https://online.isae-supaero.fr/airplane\" class=\"btn btn-primary\"><strong>PLUS D'INFORMATION</strong></a>",
+                "image": "@PROJECT_PATH@/assets/images/diapositive1-2-1589x2249.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diapositive1-2-1589x2249-800x800.jpg",
+                "caption": "Type caption here",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "tags": "FAB",
+                "bestSeller": true,
+                "itemTitle": "ADN Factory",
+                "itemSubtitle": "Aerospace Digital Nuggets<br><br>",
+                "itemDescription": "Les ADN - <i>Aerospace Digital Nuggets</i>, sont un ensemble de ressources pédagogiques multimédia et interactives visant un apprentissage en un temps court inférieur à 30 min. Le terme \"Nugget\" signifie \"pépite\" mais est également associé à l’idée de consommation rapide. L'ADN Factory vise ainsi à produire ces contenus pour alimenter une plateforme de micro-learning, mais également servir dans un MOOC ou être utilisé dans une classe inversée dans la plateforme pédagogique de l'établissement. Il peut prendre la forme d’un ensemble cohérent de séquences de vidéo de cours, d’exervices autour d’un lab virtuel ou d’un simulateur ou d’évaluation formative.",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "2019+",
+                "onsale": "Beta version",
+                "button": "<a data-app-btn=\"true\" href=\"page2.html\" class=\"btn btn-primary\"><strong>PLUS D'INFORMATION</strong></a>",
+                "image": "@PROJECT_PATH@/assets/images/diapositive11-1589x2249.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diapositive11-1589x2249-800x800.jpg",
+                "caption": "Type caption here",
+                "alt": "",
+                "title": "",
+                "active": false,
+                "onSale": false
+              },
+              {
+                "tags": "LAB, Plateforme",
+                "bestSeller": false,
+                "itemTitle": "xDash",
+                "itemSubtitle": "Centraliser, analyser et exploiter les traces d'apprentissage",
+                "itemDescription": "",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "2019 +",
+                "onsale": "Beta version",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-secondary\"><strong>BIENTÔT</strong><br></a>",
+                "image": "@PROJECT_PATH@/assets/images/diapositive14-1589x2249.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diapositive14-1589x2249-800x800.jpg",
+                "caption": "Type caption here",
+                "alt": "",
+                "title": "",
+                "onSale": false,
+                "active": false
+              },
+              {
+                "tags": "LAB, Plateforme",
+                "bestSeller": true,
+                "itemTitle": "IREAL",
+                "itemSubtitle": "Digitalisation d'expériences scientifiques",
+                "itemDescription": "<p>IREAL est une plateforme pédagogique innovante permettant de réaliser des expériences scientifiques depuis n'importe où, \u000bà n'importe quel moment, depuis &nbsp;tout \u000bappareil numérique, en obtenant les résultats immédiatement.&nbsp;</p><p><br></p><p>100% réaliste, elle s'adapte à plusieurs champs disciplinaires et résiste au facteur d'échelle permettant à des promotions entières d'étudiants d'apprendre avec les expériences scientifiques et techniques.&nbsp;</p>",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "2019+",
+                "onsale": "Beta version",
+                "button": "<a data-app-btn=\"true\" href=\"https://ireal.isae-supaero.fr\" class=\"btn btn-primary\"><strong>PLUS D'INFORMATION</strong></a>",
+                "image": "@PROJECT_PATH@/assets/images/diapositive12-3-1589x2249.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diapositive12-3-1589x2249-800x800.jpg",
+                "caption": "Type caption here",
+                "alt": "",
+                "title": "",
+                "onSale": false,
+                "active": false
+              },
+              {
+                "tags": "Plateforme, OPS",
+                "bestSeller": false,
+                "itemTitle": "Micro-learning",
+                "itemSubtitle": "Accès direct aux ADN<br><br>",
+                "itemDescription": "<p>Les plateformes de micro-learning permettent aux apprenants un accès direct aux notions de cours, sous la forme d'ADN (Aerospace Digital Nuggets). </p><p><br></p><p>Cette plateforme est actuellement en construction tant au niveau des contenus que de son infrastructure. Il existe actuellement un POC opérationnel (Proof of Concept) qui permet &nbsp;la recherche et l'accès rapide aux contenus, ou la consultation d'un nuage de tags permettant de les filtrer rapidement.</p>",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "2020",
+                "onsale": "Conception",
+                "button": "<a data-app-btn=\"true\" href=\"https://microlearning.isae-supaero.fr\" class=\"btn btn-primary\"><strong>PLUS D'INFORMATION</strong></a>",
+                "image": "@PROJECT_PATH@/assets/images/capture%20d%E2%80%99e%CC%81cran%202019-11-25%20a%CC%80%2018.28.10-1652x930.png",
+                "thumb": "@PROJECT_PATH@/assets/images/capture-decran-2019-11-25-a-18.28.10-1652x930-714x711.png",
+                "caption": "Type caption here",
+                "alt": "",
+                "title": "",
+                "active": true,
+                "onSale": false
+              },
+              {
+                "tags": "Plateforme, LAB",
+                "bestSeller": false,
+                "itemTitle": "NaaS",
+                "itemSubtitle": "Nuggets as a Service<br><br>",
+                "itemDescription": "<p>Le projet NaaS - <i>Nuggets as a Service </i>développe une approche cloud pour&nbsp;l'hébergement&nbsp;et la diffusion des micro-contenus structurés utilisés dans les dispositifs de formation : plateformes pédagogiques LMS, plateformes de micro-learning, etc. Les micro-contenus sont intégrés et joués dynamiquement et sur demande. Le système NaaS est conçu selon une architecture simple et résistante au facteur d'échelle. Ce dispositif est compatible avec la collecte de traces d'apprentissage au format xAPI.</p><p><br></p><p>Le projet NaaS est mené avec <a href=\"http://www.unit.eu/\" target=\"_blank\">la fondation UNIT</a>.</p>",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "2020",
+                "onsale": "Conception",
+                "button": "<a data-app-btn=\"true\" href=\"https://microlearning.isae-supaero.fr\" class=\"btn btn-secondary\"><strong>BIENTÔT</strong><br></a>",
+                "image": "@PROJECT_PATH@/assets/images/naas-1-595x617.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/naas-1-595x617-475x475.jpg",
+                "caption": "Type caption here",
+                "alt": "",
+                "title": "",
+                "active": false,
+                "onSale": true
+              },
+              {
+                "tags": "TRANSFO, LAB",
+                "bestSeller": false,
+                "itemTitle": "ImSpace",
+                "itemSubtitle": "Espace immersif<br><br>",
+                "itemDescription": "La mise en place d'un nouvel espace physique lié à l'innovation et à l'entrepreneuriat (i.e., l'innovspace) a permis notamment la réalisation d'un lieu dédié aux technologies immersives : 3D, réalité virtuelle et mixte, vidéo immersive, centre d'ingénierie concourrante. L'ensemble des technologies sont centralisés dans l'ImSpace et favorise une appropriation et l'innovation par l'ensemble des acteurs de l'ISAE-SUPAERO.",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "2020",
+                "onsale": "-50%",
+                "button": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\"><strong>BIENTOT, P</strong><strong>LUS D'INFORMATION</strong></a>",
+                "image": "@PROJECT_PATH@/assets/images/capture%20d%E2%80%99e%CC%81cran%202019-11-26%20a%CC%80%2019.18.38-884x726.png",
+                "thumb": "@PROJECT_PATH@/assets/images/capture-decran-2019-11-26-a-19.18.38-884x726-580x580.png",
+                "caption": "Type caption here",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "tags": "FAB, MOOC",
+                "bestSeller": false,
+                "itemTitle": "NewSpace Access",
+                "itemSubtitle": "A MOOC on new approaches&nbsp;<br>to space access",
+                "itemDescription": "TBD",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "2020",
+                "onsale": "Production",
+                "button": "<a data-app-btn=\"true\" href=\"https://online.isae-supaero.fr\" class=\"btn btn-secondary\"><strong>BIENTÔT</strong><br></a>",
+                "image": "@PROJECT_PATH@/assets/images/greg-rakozy-ompaz-dn-9i-unsplash-1-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/greg-rakozy-ompaz-dn-9i-unsplash-1-2000x1333-800x800.jpg",
+                "caption": "Type caption here",
+                "alt": "",
+                "title": "",
+                "active": false,
+                "onSale": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "title": "PROJETS &amp; PRODUITS IDEA",
+          "filter_by_pu": "<a class=\"btn btn-primary disableSortButton\"><b>DATES : CROISSANTE</b></a>",
+          "filter_by_pd": "<a class=\"btn btn-primary disableSortButton\"><b>DATES : DECROISSANTES</b></a>",
+          "filter_by_d": "<a class=\"btn btn-primary\"><b>TRI PAR DEFAUT</b></a>",
+          "price_range": "<a class=\"btn btn-primary filterPriceRange\">Filter</a>",
+          "price_range_reset": "<a class=\"btn btn-secondary\">Show all</a>",
+          "closeModal": "<a class=\"btn btn-primary modalButton\" mbr-on-click=\"_onCloseModalClick\">Close</a>",
+          "allItem": "Tous",
+          "sidebar1": "Projets en vedette",
+          "sidebar2": "FILTRE PAR DATE",
+          "sidebar3": "CATEGORIES",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extShop1",
+          "_anchor": "extShop1-5"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showContacts": true,
+            "showSubtitle": true,
+            "showText": false,
+            "showIcons": true,
+            "showForm": true,
+            "inverse": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "googleMap": {
+              "address": "ISAE-SUPAERO, Toulouse",
+              "placeId": "ChIJs7aKKze8rhIRdeozSadiQ1o",
+              "state": "ok",
+              "stateDetails": ""
+            },
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extForm1_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#e9e9e9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.1,
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">PLUS D'INFORMATION</a>"
+          },
+          "title": "CONTACTEZ NOUS !",
+          "title1": "Nous sommes ouverts à toutes collaborations.",
+          "subTitle1": "Toujours prêts à partager et à coopérer",
+          "text1": "Phone: +1 (0) 000 0000 001 <br> Email: idea@isae-supaero.fr",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><strong>ENVOYER LE MESSAGE</strong></a>",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-form1",
+              "name": "envelope",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "form": {
+            "action": "Laurent.Dairaine@isae-supaero.fr",
+            "alerts": {
+              "success": "Merci de nous avoir envoyé un message."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nom*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Téléphone*"
+              },
+              "message": {
+                "visible": true,
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extForm3",
+          "_anchor": "extForm3-a"
+        },
+        {
+          "_styles": {
+            ".card-block p": {
+              "font-size": "15px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "autoplay": false,
+            "timeout": "10",
+            "paddingTop": 2,
+            "paddingBottom": 1,
+            "showBullets": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/flight-mountains-sky-flying.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5,
+            "visibleSlides": "4",
+            "slides": [
+              {
+                "active": false,
+                "text": "<p>Successivement enseignant-chercheur puis DSI, il occupe désormais les fonctions &nbsp;de &nbsp;responsable de la tranformation numérique de l'ISAE-SUPAERO. Dans ce cadre il anime &nbsp;l'équipe IDEA - Innovations Digitales &nbsp;pour l'Enseignement Aéronautique et spatiale.&nbsp;</p>",
+                "authorName": "Laurent DAIRAINE",
+                "authorBio": "Responsable transformation numérique",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/ld-159x160.png",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "&nbsp;",
+                "authorName": "Anne-Lise LUGA",
+                "authorBio": "Ingénieur Digital Learning<br>",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/all-160x158.png",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "&nbsp;",
+                "authorName": "Eric POQUILLON",
+                "authorBio": "Expert Aéronautique",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/ep-160x159.png",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "&nbsp;",
+                "authorName": "Bruno ILPONSE",
+                "authorBio": "Responsable EdTech",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/bi-157x160.png",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "&nbsp;",
+                "authorName": "Tanguy PERENNOU",
+                "authorBio": "Conseiller pédagogique",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/tp-158x160.png",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                },
+                "image": "@PROJECT_PATH@/assets/images/tp-352x356.png",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "active": false,
+                "text": "&nbsp;",
+                "authorName": "Claire JUANEDA",
+                "authorBio": "Ingénieur Digital ECATA",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/cj-160x160.png",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                },
+                "image": "@PROJECT_PATH@/assets/images/cj-356x356.png",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "active": false,
+                "text": "&nbsp;",
+                "authorName": "Sophie BERNARD",
+                "authorBio": "Développeur IREAL",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/sb-158x160.png",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                },
+                "image": "@PROJECT_PATH@/assets/images/gh-275x358.png",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "active": true,
+                "text": "&nbsp;",
+                "authorName": "Gauthier Hautecoeur",
+                "authorBio": "Apprenti, &nbsp;Master d'informatique",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/gh-123x160.png",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                },
+                "image": "@PROJECT_PATH@/assets/images/gh-275x358.png",
+                "alt": "",
+                "title": ""
+              }
+            ]
+          },
+          "title": "Equipe IDEA",
+          "subtitle": "Des compétences variées, une équipe passionnée",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTestimonials4",
+          "_anchor": "extTestimonials4-m"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/vl-blanc-cmjn-100-128x78.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Adresse</strong><br>10, avenue Édouard-Belin <br>BP 54032&nbsp;<br>31055 Toulouse CEDEX 4&nbsp;<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: idea at isae-supaero.fr<br>\nPhone: +33 5 61 33 80 80&nbsp;<br>",
+          "text3": "<strong>Liens</strong><br>\n<a href=\"https://www.isae-supaero.fr\" target=\"_blank\">Site Web ISAE-SUPAERO</a><br>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-e"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "meta_descr": "Digital Learning, Micro-learning, ADN, Factory, Production, ingénierie de production,  LTI, xAPI",
+        "title": "Blog-ADN_Factory",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "24px"
+            },
+            ".navbar-toggler": {
+              "color": "#2e2e2e"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#2e2e2e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#2e2e2e"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#2e2e2e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f1a41c!important"
+            },
+            "A": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            },
+            "SPAN": {
+              "font-size": "16px"
+            },
+            ".navbar-caption SPAN": {
+              "font-size": "24px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#2e2e2e",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-8\" aria-expanded=\"false\"><span style=\"font-weight: normal;\">IDEA ?</span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extShop1-5\" aria-expanded=\"false\"><span style=\"font-weight: normal;\">PROJETS</span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm3-a\" aria-expanded=\"false\"><span style=\"font-weight: normal;\">CONTACT</span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logoisae-200-200x121.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.isae-supaero.fr",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span style=\"font-weight: normal;\">IDEA</span></a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-n"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b",
+              "font-size": "48px"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ccc",
+            "overlayOpacity": "0.9"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/capture-decran-2019-11-26-a-22.19.50-1262x1296.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "ADN Factory",
+          "text": "Laurent Dairaine, le 19 novembre 2019<br><br>L'ADN Factory  est  une initiative proposée par l'unité IDEA, dont l'objectif est la production d'un large ensemble de micro-contenus sur des thématiques utiles pour les formation &nbsp;aéronautique et spatiales. Ces contenus répondent aux exigences éditoriales, pédagogiques et techniques des ADN pour &nbsp;\"<i>Aerospace Digital Nuggets</i>\".  Ils sont ensuite publiés selon une approche cloud &nbsp;\"as a Service\" et il est possible de les consulter directement dans le cadre du micro-learning, ou de les intégrer dynamiquement &nbsp;dans les plateformes pédagogiques au gré des besoins.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"page2.html#msg-box2-l\" data-toolbar=\"-mbrBtnMove\">LIRE LE POST</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-r"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ADN Factory",
+          "text": "Laurent Dairaine, le 19 novembre 2019",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-l"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>La société humaine vit actuellement avec le numérique, une (r)évolution significative de l’ensemble de ses activités. Cette transformation signifie la modernisation des métiers et des services, avec tout ce que cela implique en termes de changements des méthodes et des techniques pour y parvenir. Si les services numériques ne sont que de nouveaux outils, certaines de leurs caractéristiques, par exemple la rupture de l’unité de temps et de l’unité de lieux, les capacités de stockage ou de traitement allant jusqu'à une forme d’intelligence, ouvrent de réelles opportunités et peuvent remettre en question la plupart des modalités de fonctionnement auxquelles le monde s’est habitué. L'impact du digital (i.e., l’usage du numérique) est vaste : communication, technologie, innovation, systèmes d’informations, logistique, collaboration et bien sûr en ce qui nous concerne, enseignement et pédagogie.</p><p><br></p><p>Le « Digital Learning » et la transformation pédagogique de l’enseignement constituent ainsi un enjeu majeur pour l'ISAE-SUPAERO et la mise en place d'une unité spécialisée au niveau de la direction générale de l’institut en atteste l'importance. Parmi les problématiques posées par cette transformation et traitée par cet unité, l’élaboration d’un écosystème efficace favorisant l’innovation pédagogique constitue un objectif clé. Dans ce contexte, la production efficace de ressources pédagogiques structurées et qualifiées, le déploiement de services et de plateformes numériques centrés utilisateurs, l’accompagnement des enseignants dans la démarche d’innovation pédagogique, le tout intégré au sein d’un campus numérique riche et de qualité sont autant d’axes de développement. Outre une mission associée à la transformation numérique de l’institut dans sa globalité, l’unité IDEA - Innovations Digitales pour l’Enseignement Aéronautique et spatial - se focalise en priorité sur le cœur de métier avec la transformation digitale de l’enseignement. Trois axes complémentaires sont abordés : (1) des études &amp; développement dans le domaine des EdTech (i.e., Education Technologies) appliquées au contexte thématique de l’ISAE-SUPAERO, (2) la réalisation de contenus et de formations numériques avec le développement d’une ingénierie de production adaptée et (3) l’accompagnement pédagogique et l’exécution des formations numérique avec le développement d’une ingénierie tutorale adaptée.</p><p><br></p><p> \n</p><p>Sur l’angle de la digitalisation des formations, l’ISAE-SUPAERO s’est investi depuis plusieurs années dans la production de MOOC qui sont aujourd’hui déployés sur des plateformes publiques nationales ou internationales. Outre les objectifs de rayonnement et d’ouverture de l’enseignement, ces MOOC ont aussi été une formidable opportunité pour comprendre et développer l’ingénierie de production nécessaires aux formations numériques. Parmi les éléments clés détectés lors les retours d’expériences de ces productions, nous avons en particulier identifié un élément qui fonde aujourd’hui une partie importante de notre stratégie de digitalisation des formations : la réutilisation dynamique des contenus numériques.</p><p><br></p><p> \n</p><p>Dans la perspective de faciliter cette réutilisation, nous avons défini l’objet d’Aerospace Digital Nuggets ou ADN comme des contenus éditorialisés, élaborés et qualifiés, intégrant des apports pédagogiques multimédias interactifs de haute qualité. Un ADN ne couvre qu’une ou quelques micro-compétence(s) et induit une durée d’apprentissage limitée (moins de 30mn). C’est un contenu « décontextualisé » afin de faciliter des usages dans différents dispositifs pédagogiques. Les ADN sont dynamiquement intégrés en mode cloud « as a Service », dans une plateforme pédagogique d’établissement (LMS) ou toute autres plateformes Web répondant aux standards d’intégration modernes (p.ex., LTI, xAPI Launch, etc.).</p><p><br></p>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-t"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><span style=\"font-size: 1.07rem;\"><b>Les ADN pour Aerospace Digital Nuggets sont des contenus éditorialisés, élaborés et qualifiés, intégrant des apports pédagogiques multimédias interactifs de haute qualité. Ils sont décontextualisés afin de faciliter leur intégration sur tout type de modalités pédagogiques.</b></span><br></p></blockquote>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-u"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "4",
+            "bgColor": "#fff"
+          },
+          "text": "<p><br></p><p><br></p><p> \n</p><p>La structuration techno-fonctionnelle nécessaire pour rendre le contenu réutilisable et intégrable dynamiquement ouvre de nombreuses perspectives. C’est par exemple celle du développement du capital pédagogique de l’établissement en agrégeant un ensemble de contenus qualifiés sur un dispositif institutionnel identifié. Ces contenus disponibles en ligne, sont plus accessibles et plus aisément partagés au sein et entre établissements. C’est aussi une manière de rendre agile et collaboratif le développement des contenus car le cadre proposé et la forme des micro-contenus facilite leur mise en œuvre sur des projets très courts (p.ex., en comparaison de cours complets comme les MOOC). Il est ainsi possible pour un enseignant ou un groupe d’enseignants, de construire petit à petit un ensemble de contenus et de les utiliser très rapidement y compris dans les présentiels. C’est aussi faciliter la maintenance des contenus avec une centralisation et un système de gestion de version approprié. Les différents cadrages technologiques offrent une perspective d’analyse des usages pédagogiques par la mise en œuvre, sur les plateformes d’hébergement, des technologies conformes aux standards actuels de traces d’apprentissage distribuées (p.ex., le standard xAPI). C’est enfin une manière élégante d’aborder la mise en place de formations adaptatives, répondant aux besoins pédagogiques de chaque apprenant et de gérer la diversité des étudiants.</p><p><br></p><p>\n</p><p>Ainsi, les ADN peuvent être exploités selon différents cas d’utilisation dans différents types de formations, qu’elles soient initiales ou tout le long de la vie, et proposées au sein du campus, à distance ou dans un mode mixte (i.e., blended learning). Leur intégration dans de tels parcours pédagogique nécessite bien sûr d’ajouter d’autres ressources et activités, plus spécifiques, locale et contextualisées afin de proposer aux apprenant une expérience d’apprentissage riche, complète et adaptée à leurs besoins. La mise en place de plateforme de micro-learning permettant la recherche et l’accès direct à des micro-formations constitue également un usage innovant et plébiscité de ces ADN pour les mises à niveau, les révisions, l’innovation, les approches par projet, etc.</p>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-w"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/vl-blanc-cmjn-100-128x78.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Adresse</strong><br>10, avenue Édouard-Belin <br>BP 54032&nbsp;<br>31055 Toulouse CEDEX 4&nbsp;<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: idea at isae-supaero.fr<br>\nPhone: +33 5 61 33 80 80&nbsp;<br>",
+          "text3": "<strong>Liens</strong><br>\n<a href=\"https://www.isae-supaero.fr\" target=\"_blank\">Site Web ISAE-SUPAERO</a><br>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-o"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "meta_descr": "Digital Learning, Micro-learning, ADN, Factory, Production, ingénierie de production,  LTI, xAPI",
+        "title": "Blog-IQuiz",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "24px"
+            },
+            ".navbar-toggler": {
+              "color": "#2e2e2e"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#2e2e2e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#2e2e2e"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#2e2e2e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f1a41c!important"
+            },
+            "A": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            },
+            "SPAN": {
+              "font-size": "16px"
+            },
+            ".navbar-caption SPAN": {
+              "font-size": "24px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#2e2e2e",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-8\" aria-expanded=\"false\"><span style=\"font-weight: normal;\">IDEA ?</span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extShop1-5\" aria-expanded=\"false\"><span style=\"font-weight: normal;\">PROJETS</span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm3-a\" aria-expanded=\"false\"><span style=\"font-weight: normal;\">CONTACT</span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logoisae-200-200x121.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.isae-supaero.fr",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span style=\"font-weight: normal;\">IDEA</span></a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-m"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b",
+              "font-size": "48px"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ccc",
+            "overlayOpacity": "0.9"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/diapositive8-1589x2249-591x591.jpg",
+              "link": "",
+              "alt": "Iquiz",
+              "title": "IQuiz",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "IQuiz, un levier pour la transformation numérique des établissements",
+          "text": "Laurent Dairaine, le 15 juin 2017<br><br>IQuiz est un vecteur de transformation numérique. Déployer IQuiz, c'est inciter le corps enseignant à utiliser un service numérique qui peut efficacement influer sur la pédagogie et renforcer les apprentissages des étudiants.<br><br>C'est aussi exploiter efficacement les infrastructures numériques déployées dans les lieux d'apprentissage. Utiliser les infrastructures numériques, c'est aussi les améliorer et induire in fine des usages innovants.&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"page3.html#msg-box2-o\" data-toolbar=\"-mbrBtnMove\">LIRE LE POST</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-n"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "IQuiz, un levier pour la transformation numérique des établissements",
+          "text": "Laurent Dairaine, le 15 juin 2017",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-o"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><br></p><p>Face aux arbitrages nécessaires qu'un établissement d'enseignement doit prendre pour favoriser une approche pédagogique, de nombreux critères doivent être pris en compte. Quelles perspectives sont envisagées en ce qui concerne l’usage de services numériques pédagogiques pendant les cours ? Quel niveau de mutualisation et de réutilisation est envisagé pour les investissements réalisés ? Quel niveau de soutien logistique est envisagé sur la solution déployée ? Quelle formation doit être mise en place pour une autonomie de l’enseignant sur le dispositif technique mais aussi sur la démarche pédagogique elle-même ? Quel niveau de financement est disponible pour acquérir et faire fonctionner le dispositif ? L’ensemble de ces critères sont déterminant pour choisir l’une ou l’autre des solutions techniques à déployer.&nbsp;</p><p><br></p><p>En ce qui concerne les dispositifs de sondage en temps réel (quiz en amphi), une alternative se situe en général entre le déploiement de boitiers spécialisés (BS) et l'approche \"Bring Your Own Device\" (BYOD) avec les smartphones des étudiants.  L'approche BS consiste à acquérir et distribuer des boitiers de votes spécifiques sous la forme d'une télécommande, d'un réseau de communication radio dédié et d'une application propriétaire installée sur l'ordinateur de l'enseignant.&nbsp;</p><p><br></p><p>IQuiz est un service en ligne permettant la mise en oeuvre agile d'interactions au sein d'une salle de classe - physique ou virtuelle - avec l'ensemble des étudiants présents. L'enseignant pose une question, ouverte ou fermée, oralement, au tableau ou sur des diapositives, et IQuiz permet de recueillir et de présenter les réponses qu'ont proposé les étudiants avec leur équipement numérique (p.ex., smartphone, tablet, ordinateur). Le service permet également de sonder en continu les étudiants afin de déterminer quel niveau de compréhension ils ont du cours.</p><p><br></p><p><span style=\"font-size: 1.07rem;\">IQuiz s'appuie sur l'approche BYOD qui prend en compte la forte proportion d’étudiants équipés de matériels numériques portables tout à fait capables de jouer le rôle d’interface permettant la saisie et la communication des réponses à un dispositif central mis en œuvre par le service informatique de l'établissement. La communication est assurée par un réseau informatique, à commencer par le réseau d'accès sans fil de l'établissement, puis de son infrastructure locale filaire prolongé jusqu'au Cloud UFTMIP par le réseau REMIP.</span></p><p><br></p>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-p"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "TRENDY WEBSITE BLOCKS",
+          "text": "L'approche BYOD, mise en oeuvre dans IQuiz, développe non seulement des avantages fonctionnels, mais constitue également un véritable levier permettant de contribuer à la transition numérique d'un établissement d'enseignement supérieur.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://iquiz.univ-toulouse.fr\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visiter le site IQuiz</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-t"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "4",
+            "bgColor": "#fff"
+          },
+          "text": "IQuiz favorise l'ouverture et l'innovation car l'infrastructure numérique qu'elle nécessite permettra également un usage varié de ressources pédagogiques numériques. IQuiz facilite donc la mise en œuvre d'autres dispositifs pédagogiques adaptés aux besoins, dans le contexte de la classe et du présentiel (p.ex., accès à la plateforme pédagogique de l’établissement, au bureau numérique, au répertoire de travail de l’étudiant, à un logiciel spécifique, etc.). La créativité actuelle du domaine des « EdTech » (Education Technologies) permet d'envisager de nombreux usages innovants dans ce contexte et le choix BYOD reste a priori aligné à ces évolutions.<div><br></div><div>Par ailleurs, l'exigence d'une infrastructure numérique très opérationnelle participe indirectement à l'amélioration générale des services d'accès aux systèmes d'information (p.ex., WiFi, annuaire, etc.). Cette approche horizontale décloisonne les services (i.e., DSI, TICE, Direction de formation, etc.) et contribue à une gestion globale des moyens numériques en alimentant le cercle vertueux d'une qualité maitrisée : les besoins d'opérationnalité induisent une augmentation de la qualité de service qui induisent à leur tour une meilleure disponibilité des services et ainsi plus d'usages du numérique, d'où le développement de nouveaux usages.</div><div><br></div><div>La connexion des moyens personnels aux infrastructures d'accès et à un service numérique proposé par l'établissement permet de proposer le service de quiz en complète <i>intégration</i> avec le système d'information de l'établissement, facilite ainsi l'usage et permet d'envisager d'autres applications, par exemple les traces d'apprentissages, le test de présence, les votes, la classe inversée, etc.&nbsp;<span style=\"font-size: 1.07rem;\">En intégrant l’usage des matériels personnels des étudiants dans le contexte pédagogique, cette approche concentre les ressources de l’établissement sur les dispositifs mutualisés (i.e., serveur de quiz, réseau WiFi) et délègue la maintenance et la configuration des équipements numériques à leurs propriétaires. Cette approche contribue à ce que chaque étudiant dispose d'un matériel correctement configuré pour accéder aux SI de l'établissement et facilite, donc rentabilise l’ensemble des services numériques proposés dans l’établissement. Des systèmes de prêt peuvent être mis en place au niveau des services de documentation ou des services informatiques afin de répondre aux cas - de plus en plus isolés - d'étudiants sans moyens numériques.&nbsp;</span></div>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-r"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "_tags": [
+            "Thème"
+          ],
+          "text": "PARTAGEZ CE POST !",
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-w"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/vl-blanc-cmjn-100-128x78.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Adresse</strong><br>10, avenue Édouard-Belin <br>BP 54032&nbsp;<br>31055 Toulouse CEDEX 4&nbsp;<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: idea at isae-supaero.fr<br>\nPhone: +33 5 61 33 80 80&nbsp;<br>",
+          "text3": "<strong>Liens</strong><br>\n<a href=\"https://www.isae-supaero.fr\" target=\"_blank\">Site Web ISAE-SUPAERO</a><br>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-s"
+        }
+      ]
+    }
+  }
+}
